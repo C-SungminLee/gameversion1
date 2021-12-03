@@ -48,6 +48,7 @@ rate.setposition(-200, -220)
 rate.pendown()
 rate.write("tacos per click: " + str(score_rate))
 
+# Score rate upgrade text
 next = trtl.Turtle()
 next.speed(0)
 next.penup()
